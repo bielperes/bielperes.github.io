@@ -39,3 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Redes Socias
 - [Twitter](https://twitter.com/bielperes)
 - [Instagram](https://www.instagram.com/bielperes/)
+- [Linkedin](https://www.linkedin.com/in/bielperes/)
